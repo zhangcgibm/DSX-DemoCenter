@@ -1,5 +1,3 @@
-![](http://marcellusdrilling.com/wp-content/uploads/2016/10/under-construction.png)
-
 # Data Science Experience Demo Center
 
 This repo contains source code for several demos to be used in DSX
