@@ -13,5 +13,5 @@ Click [here]() for a deck with high level information on each demo.
 |**[BlocPower](blocPower)**| Energy | [iOS App](https://itunes.apple.com/us/app/blocpower-analyze/id1161437091) |
 |**[San Francisco Traffic Accidents](trafficAccidents)**| Civil Services | [Interactive Notebook](http://nbviewer.jupyter.org/github/nwngeek212/DSX-DemoCenter/blob/4cabeb0e28f9053398358bd4858290a59c447735/trafficAccidents/notebooks/TrafficAccidentsPixieDust.ipynb) | [YouTube](https://www.youtube.com/watch?v=cYUdXFEmxP4)
 |**[]()**| Retail | |
-|**[]()**| Financial Services | |
+|**[Machine Learning and CPLEX](finanCPLEX)**| Financial Services | |
 |**[]()**| Travel | |
