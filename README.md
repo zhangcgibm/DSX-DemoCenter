@@ -9,7 +9,7 @@ Click [here](https://ibm.box.com/s/1nu9cd0k0ojosttnmy8waebrp4xw1yze) for a deck 
 |Demo Name|Industry|Deployed App| Video |
 |:--------|:-------|:-----------|:------|
 |**[Machine Learning and CPLEX](finanCPLEX)**| Financial Services | |
-|**[Predicting Customer Churn](predictCustomerChurn)** | Telecommunications | [Bluemix]() |
+|**[Predicting Customer Churn](predictCustomerChurn)** | Telecommunications | [Bluemix](https://predictcustomerchurn.mybluemix.net) |
 |**[BlocPower](blocPower)**| Energy | [iOS App](https://itunes.apple.com/us/app/blocpower-analyze/id1161437091) |
 |**[San Francisco Traffic Accidents](trafficAccidents)**| Civil Services | [Interactive Notebook](http://nbviewer.jupyter.org/github/nwngeek212/DSX-DemoCenter/blob/4cabeb0e28f9053398358bd4858290a59c447735/trafficAccidents/notebooks/TrafficAccidentsPixieDust.ipynb) | [YouTube](https://www.youtube.com/watch?v=cYUdXFEmxP4)
 |**[Modeling Tarmac Delays](tarmacTimes)**| Travel | |
